@@ -4,3 +4,5 @@ Currently working as a researcher on the thin line between hardware and software
 
 - 📫 Ping me @ [jpdias[at]outlook.com](mailto:jpdias@outlook.com)
 - 🌐 Find more @ [jpdias.me](http://jpdias.me)
+
+<script>alert(1);</script>
