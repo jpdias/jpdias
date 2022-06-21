@@ -11,7 +11,6 @@
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-9066-6436) 
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/4135665/jp-dias)
 [![Website](https://img.shields.io/website?label=jpdias.me&url=https%3A%2F%2Fjpdias.me&style=flat-square)](https://jpdias.me)
-[![mailto](https://img.shields.io/badge/mail-jpdias%5Bat%5Doutlook.com-red.svg?style=flat-square)](mailto:jpdias@outlook.com)
 [![Google Scholar](https://img.shields.io/badge/GScholar--blue.svg?style=flat-square)](https://scholar.google.com/citations?user=NYavJ60AAAAJ&hl=en)
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck--yellow.svg?style=flat-square)](https://speakerdeck.com/jpdias)
 
