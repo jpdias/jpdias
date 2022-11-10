@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/-@jpdias-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/jpdias)
 [![Twitter](https://img.shields.io/twitter/follow/jpd1as?label=%40jpd1as&logo=Twitter&color=blue&logoColor=blue&style=flat-square)](https://twitter.com/jpd1as)
+<a rel="me" href="https://mastodon.social/@jpdias"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000525554?domain=https%3A%2F%2Fmastodon.social&style=flat-square&logo=mastodon"></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopdias)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Joao-Dias-11)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white)](https://orcid.org/0000-0001-9066-6436) 
